@@ -1,3 +1,17 @@
+# Datos básicos
+
+**URL Sitio Prueba**: [https://control-presupuesto-nparrado.netlify.app](https://control-presupuesto-nparrado.netlify.app)
+
+Se realizó utilizando ReactJS, a modo de prueba aprendiendo de:
+
+- Stateless Functional Components
+- UseState
+- UseEffect
+- ShortID
+- Helpers
+- Proptypes
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
